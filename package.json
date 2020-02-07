@@ -1,0 +1,15 @@
+{
+    "scripts": {
+        "dev": "webpack-dev-server",
+        "build": "webpack --progress --mode=development"
+    },
+    "devDependencies": {
+        "webpack": "^4.41.5",
+        "webpack-cli": "^3.3.10",
+        "webpack-dev-server": "^3.10.2"
+    },
+    "dependencies": {
+        "xterm": "^4.3.0",
+        "xterm-addon-attach": "^0.4.0"
+    }
+}
